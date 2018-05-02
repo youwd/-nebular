@@ -1,0 +1,101 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@nebular/auth@^2.0.0-rc.4",
+        "scope": "@nebular",
+        "escapedName": "@nebular%2fauth",
+        "name": "@nebular/auth",
+        "rawSpec": "^2.0.0-rc.4",
+        "spec": ">=2.0.0-rc.4 <3.0.0",
+        "type": "range"
+      },
+      "E:\\项目\\数据共享平台\\CFCMS"
+    ]
+  ],
+  "_from": "@nebular/auth@>=2.0.0-rc.4 <3.0.0",
+  "_id": "@nebular/auth@2.0.0-rc.4",
+  "_inCache": true,
+  "_location": "/@nebular/auth",
+  "_nodeVersion": "6.9.5",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/auth-2.0.0-rc.4.tgz_1514741351100_0.4995139315724373"
+  },
+  "_npmUser": {
+    "name": "nebular",
+    "email": "contact@akveo.com"
+  },
+  "_npmVersion": "5.3.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@nebular/auth@^2.0.0-rc.4",
+    "scope": "@nebular",
+    "escapedName": "@nebular%2fauth",
+    "name": "@nebular/auth",
+    "rawSpec": "^2.0.0-rc.4",
+    "spec": ">=2.0.0-rc.4 <3.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@nebular/auth/-/auth-2.0.0-rc.4.tgz",
+  "_shasum": "59628209426a8788e86a4d6a7cb5e85c918206dd",
+  "_shrinkwrap": null,
+  "_spec": "@nebular/auth@^2.0.0-rc.4",
+  "_where": "E:\\项目\\数据共享平台\\CFCMS",
+  "author": {
+    "name": "akveo"
+  },
+  "bugs": {
+    "url": "https://github.com/akveo/nebular/issues"
+  },
+  "dependencies": {},
+  "description": "@nebular/auth",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-+2/qedeNkLHt1tKjQ57LUDZYOJoyjDRlIipQ+S7Hj8k8aCpLW6S8tuUvtlcobVn2M7+Cn1vj3CYGaNYCgrz2SA==",
+    "shasum": "59628209426a8788e86a4d6a7cb5e85c918206dd",
+    "tarball": "https://registry.npmjs.org/@nebular/auth/-/auth-2.0.0-rc.4.tgz"
+  },
+  "homepage": "https://github.com/akveo/nebular#readme",
+  "keywords": [
+    "angular",
+    "typescript",
+    "ng2-admin",
+    "ngx-admin",
+    "theme",
+    "auth",
+    "login",
+    "register",
+    "nebular"
+  ],
+  "license": "MIT",
+  "main": "./bundles/auth.umd.js",
+  "maintainers": [
+    {
+      "name": "nebular",
+      "email": "contact@akveo.com"
+    }
+  ],
+  "module": "./index.js",
+  "name": "@nebular/auth",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "@angular/common": "^5.1.0",
+    "@angular/core": "^5.1.0",
+    "@angular/router": "^5.1.0",
+    "@angular/forms": "^5.1.0",
+    "@angular/http": "^5.1.0",
+    "@nebular/theme": "2.0.0-rc.4"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akveo/nebular.git"
+  },
+  "typings": "./index.d.ts",
+  "version": "2.0.0-rc.4"
+}

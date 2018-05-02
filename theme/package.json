@@ -1,0 +1,96 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@nebular/theme@^2.0.0-rc.4",
+        "scope": "@nebular",
+        "escapedName": "@nebular%2ftheme",
+        "name": "@nebular/theme",
+        "rawSpec": "^2.0.0-rc.4",
+        "spec": ">=2.0.0-rc.4 <3.0.0",
+        "type": "range"
+      },
+      "E:\\项目\\数据共享平台\\CFCMS"
+    ]
+  ],
+  "_from": "@nebular/theme@>=2.0.0-rc.4 <3.0.0",
+  "_id": "@nebular/theme@2.0.0-rc.4",
+  "_inCache": true,
+  "_location": "/@nebular/theme",
+  "_nodeVersion": "6.9.5",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/theme-2.0.0-rc.4.tgz_1514741346445_0.09075614949688315"
+  },
+  "_npmUser": {
+    "name": "nebular",
+    "email": "contact@akveo.com"
+  },
+  "_npmVersion": "5.3.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@nebular/theme@^2.0.0-rc.4",
+    "scope": "@nebular",
+    "escapedName": "@nebular%2ftheme",
+    "name": "@nebular/theme",
+    "rawSpec": "^2.0.0-rc.4",
+    "spec": ">=2.0.0-rc.4 <3.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@nebular/theme/-/theme-2.0.0-rc.4.tgz",
+  "_shasum": "4366248bd158e315e882651dd8f46a03addc5c25",
+  "_shrinkwrap": null,
+  "_spec": "@nebular/theme@^2.0.0-rc.4",
+  "_where": "E:\\项目\\数据共享平台\\CFCMS",
+  "author": {
+    "name": "akveo"
+  },
+  "bugs": {
+    "url": "https://github.com/akveo/nebular/issues"
+  },
+  "dependencies": {},
+  "description": "@nebular/theme",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-3IwPdk8Y/XJENx+zYmzHgcVJSqGmLLYXqoHV7jSZs2BMgRhsWmmDNYti1h6Gybw/RlieygwBuEh2aX6Qvh50bA==",
+    "shasum": "4366248bd158e315e882651dd8f46a03addc5c25",
+    "tarball": "https://registry.npmjs.org/@nebular/theme/-/theme-2.0.0-rc.4.tgz"
+  },
+  "homepage": "https://github.com/akveo/nebular#readme",
+  "keywords": [
+    "angular",
+    "typescript",
+    "ng2-admin",
+    "ngx-admin",
+    "theme",
+    "nebular"
+  ],
+  "license": "MIT",
+  "main": "./bundles/theme.umd.js",
+  "maintainers": [
+    {
+      "name": "nebular",
+      "email": "contact@akveo.com"
+    }
+  ],
+  "module": "./index.js",
+  "name": "@nebular/theme",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "@angular/common": "^5.1.0",
+    "@angular/core": "^5.1.0",
+    "@angular/router": "^5.1.0",
+    "bootstrap": "^4.0.0-beta.2"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akveo/nebular.git"
+  },
+  "typings": "./index.d.ts",
+  "version": "2.0.0-rc.4"
+}
